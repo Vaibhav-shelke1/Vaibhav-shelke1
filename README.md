@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 
 - 🎨 [AI Image Generator](https://simple-ai-image-generator.netlify.app): A web application that generates high-quality images from textual descriptions using AI models.
 - 📱 [QR Code Generator](https://qr-generater.onrender.com): A user-friendly application to generate and download QR codes.
-- 📰 [News Website](https://github.com/Vaibhav-shelke1/News_website.git): A news website developed using Node.js, Express.js, EJS, REST API, and Bootstrap.
+- 📰 [News Website](https://https://daily-news-fghc.onrender.com): A news website developed using Node.js, Express.js, EJS, REST API, and Bootstrap.
 
 ## 📫 Let's Connect!
 
