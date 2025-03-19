@@ -56,7 +56,7 @@
 <ul>
   <li>📧 Email: <a href="mailto:shelkevaibhav218@gmail.com">shelkevaibhav218@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/vaibhav-shelke-264ba22b7" target="_blank">linkedin.com/in/vaibhav-shelke-264ba22b7</a></li>
-  <li>💻 GitHub: <a href="https://github.com/Vaibhav-shelke1" target="_blank">github.com/Vaibhav-shelke1</a></li>
-</ul>
+<!--   <li>💻 GitHub: <a href="https://github.com/Vaibhav-shelke1" target="_blank">github.com/Vaibhav-shelke1</a></li>
+</ul> -->
 <hr>
 <p>Thank you for visiting my profile! I'm always open to collaborating on exciting projects or discussing new opportunities. Let's connect!</p>
