@@ -94,29 +94,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Iami — Insurance Platform</h3>
-      <p>Full-stack insurance web application serving 500+ users with policy purchase, claims processing, and role-based dashboards managing 50+ agencies and 200+ agents. Handles $100K+ in monthly transactions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Rielverse — Insurance CRM Platform</h3>
-      <p>Full-stack CRM managing 1,000+ records across 5+ insurance types. Multi-role system with super admin, 5 agent types, customers, and employees. RESTful APIs handling 10,000+ daily requests.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🌾 KrushiMitra — Agricultural Support Platform</h3>
       <p>React-based web application supporting farmers with real-time weather updates, commodity price tracking, and an intelligent chatbot for agricultural guidance.</p>
       <p>
