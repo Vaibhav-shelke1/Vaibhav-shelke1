@@ -2,9 +2,9 @@
 
 # Hi there, I'm Vaibhav Shelke! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+NestJS+Developer;AI+%26+ML+Enthusiast;Open+to+Collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Production-Grade+Applications;Open+to+Collaborations!)](https://git.io/typing-svg)
 
-<p>I'm a passionate Computer Science and Engineering graduate, actively seeking opportunities in web development and software engineering. With a strong foundation in full-stack development, I'm dedicated to building innovative tech solutions that create meaningful impact.</p>
+<p>I'm a passionate Computer Science and Engineering graduate, actively seeking opportunities in web development and software engineering. With a strong foundation in full-stack development, I'm dedicated to building production-grade applications that create real-world impact.</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav-shelke1&color=6C63FF&style=flat-square&label=Profile+Views)](https://github.com/Vaibhav-shelke1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaibhav-shelke-264ba22b7)
@@ -17,11 +17,11 @@
 ## 🎓 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — Marathwada Institute of Technology, Chh. Sambhajinagar, Maharashtra (2025)
-- 💻 Full Stack Developer specializing in **React.js**, **Node.js**, **NestJS**, **Flask**, and **PyTorch**
-- 🏢 ReactJS Intern at **Konax Technologies** — hands-on experience in modern web development
-- 🏆 **Runner-up** at NewGenAI Hackathon 2024 for developing an innovative AI solution
-- 🌱 Currently deepening expertise in **NestJS** and **backend architecture**
-- 💬 Ask me about anything related to full-stack development, AI/ML integrations, or open source
+- 💻 Full Stack Developer specializing in **React.js**, **Next.js**, **Node.js**, and **Express.js**
+- 🏢 Full Stack Development Intern at **Konax Technologies** — building production APIs handling 50,000+ daily requests
+- 🏆 **Runner-up** at NewGenAI Hackathon 2024 among 100+ teams
+- 🌱 Currently deepening expertise in **system design** and **backend performance optimization**
+- 💬 Ask me about full-stack development, REST APIs, database optimization, or open source
 
 ---
 
@@ -39,28 +39,53 @@
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="28">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui" height="28">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28">
 </p>
 
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" height="28">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="28">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="28">
 </p>
 
-### Databases & Tools
+### Databases & Caching
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="28">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="28">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="28">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="28">
 </p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="28">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="28">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28">
+</p>
+
+---
+
+## ⚡ Production Impact
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| Daily API Requests Handled | **50,000+** |
+| API Uptime | **99.9%** |
+| DB Query Time Reduction | **40%** |
+| Monthly Transactions Processed | **$100K+** |
+| Concurrent Users Supported | **15,000+** |
+| Monthly Active Users (client projects) | **10,000+** |
+
+</div>
 
 ---
 
@@ -69,12 +94,35 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛡️ Iami — Insurance Platform</h3>
+      <p>Full-stack insurance web application serving 500+ users with policy purchase, claims processing, and role-based dashboards managing 50+ agencies and 200+ agents. Handles $100K+ in monthly transactions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Rielverse — Insurance CRM Platform</h3>
+      <p>Full-stack CRM managing 1,000+ records across 5+ insurance types. Multi-role system with super admin, 5 agent types, customers, and employees. RESTful APIs handling 10,000+ daily requests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🌾 KrushiMitra — Agricultural Support Platform</h3>
-      <p>React-based web application supporting farmers with real-time updates and AI-powered disease detection using PyTorch. Features an intelligent chatbot, live weather updates, and commodity price tracking.</p>
+      <p>React-based web application supporting farmers with real-time weather updates, commodity price tracking, and an intelligent chatbot for agricultural guidance.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -84,25 +132,6 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Skillora — Learning Management System</h3>
-      <p>A full-featured LMS built with NestJS and React, supporting course creation, enrollment, and progress tracking with a clean, modern UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 NewGenAI Hackathon Project — Runner-up 2024</h3>
-      <p>Award-winning AI solution built during the NewGenAI Hackathon 2024. Developed an innovative application leveraging machine learning for real-world impact.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/AI%2FML-orange?style=flat-square">
       </p>
     </td>
   </tr>
@@ -128,16 +157,6 @@
 <div align="center">
 
 [![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-shelke1&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaibhav-shelke1&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
