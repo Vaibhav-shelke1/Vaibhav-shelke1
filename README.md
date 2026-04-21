@@ -118,7 +118,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-shelke1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-shelke1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages">
@@ -129,7 +129,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav-shelke1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 <div align="center">
 
