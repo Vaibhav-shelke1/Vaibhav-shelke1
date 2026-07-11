@@ -2,7 +2,7 @@
 
 Full-stack developer, graduated 2025.
 
-**Languages:** Python · Java · JavaScript · TypeScript
+**Languages:** TypeScript · JavaScript · Python · Java
 
 **Tech:** React · Next.js · Node · Express · PostgreSQL · MongoDB · Redis · Docker · Cloudflare Workers · Supabase · Netlify Functions
 
